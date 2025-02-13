@@ -1,6 +1,6 @@
 # Project-Apollo
 
-Project Showcase: https://www.youtube.com/watch?v=m4J4_qasHlg&t=202s
+Project Showcase: [https://www.youtube.com/watch?v=m4J4_qasHlg&t=202s](https://youtu.be/m4J4_qasHlg?si=MKABUd3EEDUU1wOu)
 
 Main Assembly: https://drive.google.com/drive/folders/1TtKIhwMnUFof-ojlahYhGuUjDQLX0Q16?usp=sharing
 
